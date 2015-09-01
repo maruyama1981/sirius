@@ -1,0 +1,58 @@
+/*
+ * Copyright 2015 PRESSMAN Co., Ltd.
+ #4b67a7, #c9d1e4
+*/
+/*-----------------------------
+ ホーム
+------------------------------- */
+.index-body{
+	margin-bottom:20px;
+}
+	
+	.btncatgory {
+		width:120px;
+	}
+
+	.topmargin{
+		margin-top: 15px;
+	}
+
+	.radius {
+		-moz-border-radius: 4px; /* Firefox */
+		-webkit-border-radius: 4px; /* Safari and Chrome */
+		border-radius: 4px;
+		behavior: url(border-radius.htc); /* IE */
+	}
+	.box {
+		width: 120px;
+		height: 30px;
+		padding: 5px;
+		vertical-align: middle;
+		background: #4b67a7;
+		color:#FFFFFF;
+		text-align: center;
+		font-weight: bold;
+	}
+	
+	.dspilb{
+		display:inline-block;
+	}
+	
+	.tltlemargin{
+		width:20px;
+	}
+	.border_radius {
+		border-radius: 5px;
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+	}
+	.head_1 {
+		padding-left: 25px;
+	}
+	.text_1 {
+		padding-left: 40px;
+	}
+
+	.menubuton{
+		width:110px;
+	}
